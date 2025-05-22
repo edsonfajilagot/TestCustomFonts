@@ -5,9 +5,3 @@
   font-weight: 400;
   src: url('https://cdn.rawgit.com/edsonfajilagot/TestCustomFonts/master/files/Wallpoet-Regular.tff') format('truetype');
 }
-
-.wallpoet-regular {
-  font-family: "Wallpoet", sans-serif;
-  font-weight: 400;
-  font-style: normal;
-}
